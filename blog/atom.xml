@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blahdude.github.io/qs-research/blog</id>
-    <title>qs_research_website Blog</title>
+    <title>QuinStreet's Generative AI Database Blog</title>
     <updated>2024-06-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blahdude.github.io/qs-research/blog"/>
-    <subtitle>qs_research_website Blog</subtitle>
+    <subtitle>QuinStreet's Generative AI Database Blog</subtitle>
     <icon>https://blahdude.github.io/qs-research/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[new!]]></title>
