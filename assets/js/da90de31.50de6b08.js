@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[6628],{5647:e=>{e.exports=JSON.parse('{"tags":[{"label":"weekly newsletter","permalink":"/qs-research/blog/tags/Weekly_Newsletter","description":"Tag description","count":1}]}')}}]);
